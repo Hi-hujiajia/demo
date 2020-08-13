@@ -4,9 +4,9 @@
 本项目针对网络上基于pyhton文件打包程序较多提供补充
 
 **** 本项目实现两个功能
-**1 实现python程序打包为python库
-**2 实现c程序编译为python的.whl文件，用于上传pypi
-**3 实现c程序编译为python的本地包
+--1 实现python程序打包为python库
+--2 实现c程序编译为python的.whl文件，用于上传pypi
+--3 实现c程序编译为python的本地包
 
 
 如果只有一个被编译的文件，可以使用以下方法
